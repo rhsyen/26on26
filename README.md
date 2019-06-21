@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.com/rhsyen/26on26.svg?branch=master)](https://travis-ci.com/rhsyen/26on26)
+[![Build Status](https://travis-ci.org/rhsyen/26on26.svg?branch=master)](https://travis-ci.org/rhsyen/26on26)
