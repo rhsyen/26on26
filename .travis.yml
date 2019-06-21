@@ -1,2 +1,3 @@
 script:
     - curl --version
+    - curl -T index.html ftp://ftpupload.net --user epiz_24075765:$ftp_secret
