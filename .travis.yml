@@ -1,4 +1,5 @@
 script:
+- ls
 - curl -vT index.html ftp://ftpupload.net/htdocs/ --user $FTP_USER:$FTP_SECRET
 env:
   global:
