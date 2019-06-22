@@ -6,6 +6,20 @@
  * Made By MaterializeCSS.com
  */
 
+ .mapouter {
+  position: relative;
+  text-align: right;
+  height: 300px;
+  width: 300px;
+}
+
+.gmap_canvas {
+  overflow: hidden;
+  background: none !important;
+  height: 300px;
+  width: 300px;
+}
+
 #welcome-header {
   font-family: 'IM Fell English', serif;
   margin-top: 460px;
